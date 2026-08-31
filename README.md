@@ -34,14 +34,12 @@
 ### 🐍 Contribuições
 
 <div align="center">
-  <picture>
+  <picture style="width: 100%; max-width: 100%; display: block;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-araujo-99/Gabriel-araujo-99/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-araujo-99/Gabriel-araujo-99/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabriel-araujo-99/Gabriel-araujo-99/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabriel-araujo-99/Gabriel-araujo-99/output/github-contribution-grid-snake.svg" style="width: 100%; height: auto;">
   </picture>
 </div>
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
