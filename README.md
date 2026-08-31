@@ -25,8 +25,8 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-araujo-99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-araujo-99&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-one.vercel.app/api?username=Gabriel-araujo-99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gabriel-araujo-99&layout=compact&theme=dracula"/>
 </div>
 
 ---
