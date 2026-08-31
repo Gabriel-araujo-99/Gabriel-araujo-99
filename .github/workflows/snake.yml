@@ -14,8 +14,8 @@ jobs:
         with:
           github_user_name: Gabriel-araujo-99
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          dist/github-contribution-grid-snake.svg?palette=github-light&hide_empty=true
+          dist/github-contribution-grid-snake-dark.svg?palette=github-dark&hide_empty=true
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
